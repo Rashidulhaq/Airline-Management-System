@@ -1,5 +1,5 @@
 # Airline-management-system
-#JAVA -jframe
+# JAVA -jframe
 #Requirement for this project:
 
 1) Install netbeans
